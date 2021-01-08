@@ -40,7 +40,7 @@ SELECTOR_MAP = {
 def pyfmt(
     paths: List[str],
     selector: str = "all",
-    line_length: int = 100,
+    line_length: int = 80,
     check: bool = False,
     commit: Optional[List[str]] = None,
     commit_msg: Optional[str] = None,
