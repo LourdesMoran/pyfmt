@@ -18,7 +18,7 @@ setup(
     name="pyfmt",
     version="2.0.1",
     license="MIT",
-    url="https://github.com/GooeeIOT/pyfmt",
+    url="https://github.com/LourdesMoran/pyfmt",
     description="Python auto-formatting using isort and black.",
     long_description=readme(),
     install_requires=requirements(),
