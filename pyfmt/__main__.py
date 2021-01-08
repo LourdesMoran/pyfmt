@@ -48,7 +48,7 @@ def main():
         "--line-length",
         type=int,
         envvar="MAX_LINE_LENGTH",
-        default=100,
+        default=80,
         metavar="N",
         help="max characters per line",
     )
